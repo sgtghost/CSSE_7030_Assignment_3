@@ -1,0 +1,8 @@
+game2.txt
+14
+3
+5
+(2, 6)
+False
+True
+3
